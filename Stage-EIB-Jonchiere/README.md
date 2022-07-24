@@ -1,4 +1,5 @@
 # EIB Jonchiere | stage
+> Ouvrir cette page à [https://BarbaraC12.github.io/microbit-shifumi/](https://BarbaraC12.github.io/microbit-shifumi/)
 
 ## Utiliser comme extension
 

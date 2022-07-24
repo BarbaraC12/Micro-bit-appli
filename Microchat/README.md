@@ -1,5 +1,5 @@
 # MICROCHAT ^.^
-> Ouvrir cette page à [https://barbarac12.github.io/Micro-bit-appli/Microchat/](https://barbarac12.github.io/Micro-bit-appli/Microchat/)
+> Ouvrir cette page à [https://BarbaraC12.github.io/microbit-microchat/](https://BarbaraC12.github.io/microbit-microchat/)
 
 ## Utiliser comme extension
 

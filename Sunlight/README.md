@@ -1,5 +1,5 @@
 # SUNLIGHT O
-> Ouvrir cette page à [https://barbarac12.github.io/Micro-bit-appli/Sunlight/](https://barbarac12.github.io/Micro-bit-appli/Sunlight/)
+> Ouvrir cette page à [https://BarbaraC12.github.io/sunlight3/](https://BarbaraC12.github.io/sunlight3/)
 
 ## Utiliser comme extension
 

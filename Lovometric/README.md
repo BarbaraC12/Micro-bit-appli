@@ -1,6 +1,5 @@
 # LOVOMETRIC <3
-> Ouvrir cette page à [https://barbarac12.github.io/Micro-bit-appli/Lovemetric/](https://barbarac12.github.io/Micro-bit-appli/Lovemetric/)
-
+> Ouvrir cette page à [https://BarbaraC12.github.io/microbit-lovemetric/](https://BarbaraC12.github.io/microbit-lovemetric/)
 ## Utiliser comme extension
 
 Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
