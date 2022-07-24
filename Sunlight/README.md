@@ -16,7 +16,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
-* collez **https://github.com/barbarac12/Micro-bit-appli/Sunlight** et cliquez sur importer
+* collez **https://github.com/BarbaraC12/Micro-bit-appli/Sunlight** et cliquez sur importer
 
 ## Aperçu des blocs
 
