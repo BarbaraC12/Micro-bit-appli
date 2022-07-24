@@ -1,5 +1,5 @@
 # LOVOMETRIC <3
-> Ouvrir cette page à [https://barbarac12.github.io/microbit-lovemetric/](https://barbarac12.github.io/microbit-lovemetric/)
+> Ouvrir cette page à [https://barbarac12.github.io/microbit-lovemetric/](https://barbarac12.github.io/Micro-bit-appli/Lovemetric/)
 
 ## Utiliser comme extension
 
@@ -10,7 +10,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * cliquez sur **Extensions** dans le menu engrenage
 * recherchez **https://github.com/barbarac12/microbit-lovemetric** et importez
 
-## Éditer ce projet ![Badge du statut de la compilation](https://github.com/barbarac12/microbit-lovemetric/workflows/MakeCode/badge.svg)
+## Éditer ce projet ![Badge du statut de la compilation](https://github.com/barbarac12/Micro-bit-appli/Lovometric/workflows/MakeCode/badge.svg)
 
 Éditer ce dépôt dans MakeCode.
 
@@ -23,7 +23,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 Cette section montre le code des blocs du dernier commit dans la branche master.
 Cette image peut prendre quelques minutes pour être actualisée.
 
-![Un rendu de la vue des blocs](https://github.com/barbarac12/microbit-lovemetric/raw/master/.github/makecode/blocks.png)
+![Un rendu de la vue des blocs](https://github.com/barbarac12/Micro-bit-appli/Lovemetric/raw/master/.github/makecode/blocks.png)
 
 #### Métadonnées (utilisées pour la recherche, le rendu)
 
